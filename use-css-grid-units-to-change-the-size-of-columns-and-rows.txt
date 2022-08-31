@@ -1,4 +1,4 @@
-Task No 4 Completed (Use CSS Grid units to Change the Size of Columns and Rows)
+'grid-template-coloums' -> by using this property of 'flex-box', we can make custom-sized coloumns in Grid
 
 <style>
   .d1{background:LightSkyBlue;}
