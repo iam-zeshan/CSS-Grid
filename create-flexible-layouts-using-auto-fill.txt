@@ -1,4 +1,4 @@
-Task No 20 Completed (Create Flexible Layouts Using auto-fill)
+'auto-fill' -> this is the another attribute of the repeat function, we can use it for auto fill the area of the grid. 
 
 <style>
   .item1{background:LightSkyBlue;}
